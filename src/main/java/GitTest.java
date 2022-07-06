@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("hello github lab");
         System.out.println("hello github lab3");
         System.out.println("hello github lab4");
+        System.out.println("hot-fix");
     }
 }
